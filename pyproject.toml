@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "multi-pdf-rag-main"
+version = "poetry init"
+description = "this is just the demo project"
+authors = ["Saurabh Bhandari"]
+license = "MIT-2026"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
